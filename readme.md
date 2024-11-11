@@ -50,7 +50,7 @@ Running `vit.py` without arguments defaults to inference with pre-trained weight
 
 ## Notes
 
-- **Image Formats**: Use JPEG or PNG.
+- **Image Formats**: Use JPG or PNG.
 - **GPU Support**: Automatically uses GPU if available.
 - **Hyperparameters**: Adjustable in the script.
 - **Custom Datasets**: For other datasets (e.g., CIFAR-100), update dataset loading and `num_classes` in the script.
